@@ -66,13 +66,13 @@
     "hotel": [
       {
         "id": 1,
-        "category": "",
-        "image_url":"",
-        "type_of_room":"",
-        "bed_type": "",
-        "bed_of_persons": "",
-        "capacity": "",
-        "cost": "",
+        "category": "Family",
+        "image_url":"https://thumbs.dreamstime.com/b/hotel-bed-room-21064950.jpg",
+        "type_of_room":"AC",
+        "bed_type": "Single",
+        "bed_of_persons": "2",
+        "capacity": "1",
+        "cost": "2500",
         "booked": false
       }
     ]
