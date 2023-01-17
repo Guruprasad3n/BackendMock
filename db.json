@@ -62,6 +62,19 @@
         "place": "Banglore",
         "gender": "Female"
       }
+    ],
+    "hotel": [
+      {
+        "id": 1,
+        "category": "",
+        "image_url":"",
+        "type_of_room":"",
+        "bed_type": "",
+        "bed_of_persons": "",
+        "capacity": "",
+        "cost": "",
+        "booked": false
+      }
     ]
   }
   
