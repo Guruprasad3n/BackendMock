@@ -17,6 +17,15 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2018,
+      "kms": 8001,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800001
     }
   ],
   "wishlisted_cars": [
