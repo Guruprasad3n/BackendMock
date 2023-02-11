@@ -39,7 +39,7 @@
       "Price": 500000
     }
   ],
-  "Signup": [
+  "users": [
     {
       "email": "asd",
       "name": "asd",
