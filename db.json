@@ -5843,5 +5843,1099 @@
       "info": "55555555 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "image": "https://cdn.pixabay.com/photo/2018/01/21/19/57/tree-3097419_1280.jpg"
     }
-  ]
+  ],
+  "data": {
+    "2023": {
+      "January": {
+          "Category": {
+              "Electronics": [
+                {
+                  "Product": "Audio",
+                  "Sales": 100,
+                  "Revenue": 7500,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Gaming",
+                  "Sales": 90,
+                  "Revenue": 8000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Television",
+                  "Sales": 90,
+                  "Revenue": 4000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Headphones",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  },
+                  {
+                  "Product": "Laptop",
+                  "Sales": 100,
+                  "Revenue": 900,
+                  "UserActivity": 2700
+                  },
+                  {
+                  "Product": "Camera",
+                  "Sales": 10,
+                  "Revenue": 900,
+                  "UserActivity": 1700
+                  }
+              ],
+              "Fashion": [
+                {
+                  "Product": "Men",
+                  "Sales": 10,
+                  "Revenue": 6000,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Women",
+                  "Sales": 20,
+                  "Revenue": 7000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Kids",
+                  "Sales": 30,
+                  "Revenue": 3000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Winter",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  }
+              ]
+            }
+      },
+      "February": {
+          "Category": {
+              "Electronics": [
+                {
+                  "Product": "Audio",
+                  "Sales": 100,
+                  "Revenue": 7500,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Gaming",
+                  "Sales": 90,
+                  "Revenue": 8000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Television",
+                  "Sales": 90,
+                  "Revenue": 4000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Headphones",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  },
+                  {
+                  "Product": "Laptop",
+                  "Sales": 100,
+                  "Revenue": 900,
+                  "UserActivity": 2700
+                  },
+                  {
+                  "Product": "Camera",
+                  "Sales": 10,
+                  "Revenue": 900,
+                  "UserActivity": 1700
+                  }
+              ],
+              "Fashion": [
+                {
+                  "Product": "Men",
+                  "Sales": 10,
+                  "Revenue": 6000,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Women",
+                  "Sales": 20,
+                  "Revenue": 7000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Kids",
+                  "Sales": 30,
+                  "Revenue": 3000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Winter",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  }
+              ]
+            }
+      },
+      "March": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "April": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "May": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "June": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "July": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "August": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "September": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "October": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "November": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      },
+      "December": {
+        "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+      }
+    },
+    "2024": {
+      "January": {
+        "Category": {
+          "Electronics": [
+            {
+              "Product": "Audio",
+              "Sales": 100,
+              "Revenue": 7500,
+              "UserActivity": 2500
+            },
+            {
+              "Product": "Gaming",
+              "Sales": 90,
+              "Revenue": 8000,
+              "UserActivity": 2800
+            },
+            {
+              "Product": "Television",
+              "Sales": 90,
+              "Revenue": 4000,
+              "UserActivity": 2400
+              },
+              {
+              "Product": "Headphones",
+              "Sales": 90,
+              "Revenue": 7000,
+              "UserActivity": 2100
+              },
+              {
+              "Product": "Laptop",
+              "Sales": 100,
+              "Revenue": 900,
+              "UserActivity": 2700
+              },
+              {
+              "Product": "Camera",
+              "Sales": 10,
+              "Revenue": 900,
+              "UserActivity": 1700
+              }
+          ],
+          "Fashion": [
+            {
+              "Product": "Men",
+              "Sales": 10,
+              "Revenue": 6000,
+              "UserActivity": 2500
+            },
+            {
+              "Product": "Women",
+              "Sales": 20,
+              "Revenue": 7000,
+              "UserActivity": 2800
+            },
+            {
+              "Product": "Kids",
+              "Sales": 30,
+              "Revenue": 3000,
+              "UserActivity": 2400
+              },
+              {
+              "Product": "Winter",
+              "Sales": 90,
+              "Revenue": 7000,
+              "UserActivity": 2100
+              }
+          ]
+        }
+      },
+      "February": {
+          "Category": {
+            "Electronics": [
+              {
+                "Product": "Audio",
+                "Sales": 100,
+                "Revenue": 7500,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Gaming",
+                "Sales": 90,
+                "Revenue": 8000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Television",
+                "Sales": 90,
+                "Revenue": 4000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Headphones",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                },
+                {
+                "Product": "Laptop",
+                "Sales": 100,
+                "Revenue": 900,
+                "UserActivity": 2700
+                },
+                {
+                "Product": "Camera",
+                "Sales": 10,
+                "Revenue": 900,
+                "UserActivity": 1700
+                }
+            ],
+            "Fashion": [
+              {
+                "Product": "Men",
+                "Sales": 10,
+                "Revenue": 6000,
+                "UserActivity": 2500
+              },
+              {
+                "Product": "Women",
+                "Sales": 20,
+                "Revenue": 7000,
+                "UserActivity": 2800
+              },
+              {
+                "Product": "Kids",
+                "Sales": 30,
+                "Revenue": 3000,
+                "UserActivity": 2400
+                },
+                {
+                "Product": "Winter",
+                "Sales": 90,
+                "Revenue": 7000,
+                "UserActivity": 2100
+                }
+            ]
+          }
+        },
+      "March": {
+          "Category": {
+              "Electronics": [
+                {
+                  "Product": "Audio",
+                  "Sales": 100,
+                  "Revenue": 7500,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Gaming",
+                  "Sales": 90,
+                  "Revenue": 8000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Television",
+                  "Sales": 90,
+                  "Revenue": 4000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Headphones",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  },
+                  {
+                  "Product": "Laptop",
+                  "Sales": 100,
+                  "Revenue": 900,
+                  "UserActivity": 2700
+                  },
+                  {
+                  "Product": "Camera",
+                  "Sales": 10,
+                  "Revenue": 900,
+                  "UserActivity": 1700
+                  }
+              ],
+              "Fashion": [
+                {
+                  "Product": "Men",
+                  "Sales": 10,
+                  "Revenue": 6000,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Women",
+                  "Sales": 20,
+                  "Revenue": 7000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Kids",
+                  "Sales": 30,
+                  "Revenue": 3000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Winter",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  }
+              ]
+            }
+      },
+      "April": {
+          "Category": {
+              "Electronics": [
+                {
+                  "Product": "Audio",
+                  "Sales": 100,
+                  "Revenue": 7500,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Gaming",
+                  "Sales": 90,
+                  "Revenue": 8000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Television",
+                  "Sales": 90,
+                  "Revenue": 4000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Headphones",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  },
+                  {
+                  "Product": "Laptop",
+                  "Sales": 100,
+                  "Revenue": 900,
+                  "UserActivity": 2700
+                  },
+                  {
+                  "Product": "Camera",
+                  "Sales": 10,
+                  "Revenue": 900,
+                  "UserActivity": 1700
+                  }
+              ],
+              "Fashion": [
+                {
+                  "Product": "Men",
+                  "Sales": 10,
+                  "Revenue": 6000,
+                  "UserActivity": 2500
+                },
+                {
+                  "Product": "Women",
+                  "Sales": 20,
+                  "Revenue": 7000,
+                  "UserActivity": 2800
+                },
+                {
+                  "Product": "Kids",
+                  "Sales": 30,
+                  "Revenue": 3000,
+                  "UserActivity": 2400
+                  },
+                  {
+                  "Product": "Winter",
+                  "Sales": 90,
+                  "Revenue": 7000,
+                  "UserActivity": 2100
+                  }
+              ]
+            }
+      }
+  }
+  }
 }
