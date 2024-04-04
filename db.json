@@ -2656,62 +2656,62 @@
             "Product": "Audio",
             "Sales": 135,
             "Revenue": 8500,
-            "UserActivity": 2950
+            "UserActivity": 250
           },
           {
             "Product": "Gaming",
-            "Sales": 112,
-            "Revenue": 8900,
-            "UserActivity": 3250
+            "Sales": 2,
+            "Revenue": 83900,
+            "UserActivity": 320
           },
           {
             "Product": "Television",
-            "Sales": 111,
-            "Revenue": 4750,
-            "UserActivity": 2850
+            "Sales": 11,
+            "Revenue": 14750,
+            "UserActivity": 950
           },
           {
             "Product": "Headphones",
             "Sales": 111,
-            "Revenue": 7900,
-            "UserActivity": 2550
+            "Revenue": 900,
+            "UserActivity": 550
           },
           {
             "Product": "Laptop",
-            "Sales": 122,
-            "Revenue": 1280,
+            "Sales": 12,
+            "Revenue": 12280,
             "UserActivity": 3150
           },
           {
             "Product": "Camera",
-            "Sales": 38,
-            "Revenue": 1550,
-            "UserActivity": 2450
+            "Sales": 8,
+            "Revenue": 4550,
+            "UserActivity": 1450
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
             "Sales": 40,
-            "Revenue": 8100,
-            "UserActivity": 3100
+            "Revenue": 38100,
+            "UserActivity": 260
           },
           {
             "Product": "Women",
             "Sales": 48,
-            "Revenue": 8400,
+            "Revenue": 8200,
             "UserActivity": 3400
           },
           {
             "Product": "Kids",
             "Sales": 58,
-            "Revenue": 4500,
+            "Revenue": 4780,
             "UserActivity": 3000
           },
           {
             "Product": "Winter",
-            "Sales": 120,
-            "Revenue": 7900,
+            "Sales": 1060,
+            "Revenue": 7940,
             "UserActivity": 2650
           }
         ]
