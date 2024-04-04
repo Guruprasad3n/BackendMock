@@ -2655,19 +2655,19 @@
           {
             "Product": "Audio",
             "Sales": 135,
-            "Revenue": 8500,
+            "Revenue":6853,
             "UserActivity": 250
           },
           {
             "Product": "Gaming",
             "Sales": 2,
-            "Revenue": 83900,
+            "Revenue": 7987,
             "UserActivity": 320
           },
           {
             "Product": "Television",
             "Sales": 11,
-            "Revenue": 14750,
+            "Revenue": 4750,
             "UserActivity": 950
           },
           {
@@ -2679,7 +2679,7 @@
           {
             "Product": "Laptop",
             "Sales": 12,
-            "Revenue": 12280,
+            "Revenue": 1780,
             "UserActivity": 3150
           },
           {
