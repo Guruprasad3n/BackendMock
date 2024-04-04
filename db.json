@@ -2233,65 +2233,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 100,
-            "Revenue": 7500,
-            "UserActivity": 2500
-          },
-          {
-            "Product": "Gaming",
-            "Sales": 90,
-            "Revenue": 8000,
+            "Sales": 85,
+            "Revenue": 1500,
             "UserActivity": 2800
           },
           {
+            "Product": "Gaming",
+            "Sales": 70,
+            "Revenue": 2000,
+            "UserActivity": 3100
+          },
+          {
             "Product": "Television",
-            "Sales": 90,
-            "Revenue": 4000,
-            "UserActivity": 2400
-          },
-          {
-            "Product": "Headphones",
-            "Sales": 90,
-            "Revenue": 7000,
-            "UserActivity": 2100
-          },
-          {
-            "Product": "Laptop",
-            "Sales": 100,
-            "Revenue": 900,
+            "Sales": 15,
+            "Revenue": 800,
             "UserActivity": 2700
           },
           {
+            "Product": "Headphones",
+            "Sales": 75,
+            "Revenue": 5000,
+            "UserActivity": 2400
+          },
+          {
+            "Product": "Laptop",
+            "Sales": 95,
+            "Revenue": 1200,
+            "UserActivity": 3000
+          },
+          {
             "Product": "Camera",
-            "Sales": 10,
-            "Revenue": 900,
-            "UserActivity": 1700
+            "Sales": 20,
+            "Revenue": 800,
+            "UserActivity": 2300
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
             "Sales": 10,
-            "Revenue": 6000,
-            "UserActivity": 2500
-          },
-          {
-            "Product": "Women",
-            "Sales": 20,
-            "Revenue": 7000,
+            "Revenue": 4500,
             "UserActivity": 2800
           },
           {
+            "Product": "Women",
+            "Sales": 25,
+            "Revenue": 6000,
+            "UserActivity": 3100
+          },
+          {
             "Product": "Kids",
-            "Sales": 30,
-            "Revenue": 3000,
-            "UserActivity": 2400
+            "Sales": 35,
+            "Revenue": 2500,
+            "UserActivity": 2700
           },
           {
             "Product": "Winter",
-            "Sales": 90,
-            "Revenue": 7000,
-            "UserActivity": 2100
+            "Sales": 80,
+            "Revenue": 5500,
+            "UserActivity": 2400
           }
         ]
       }
@@ -2303,64 +2303,64 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 100,
-            "Revenue": 7500,
+            "Sales": 90,
+            "Revenue": 2000,
             "UserActivity": 2500
           },
           {
             "Product": "Gaming",
-            "Sales": 90,
-            "Revenue": 8000,
+            "Sales": 85,
+            "Revenue": 2300,
             "UserActivity": 2800
           },
           {
             "Product": "Television",
-            "Sales": 90,
-            "Revenue": 4000,
+            "Sales": 75,
+            "Revenue": 1800,
             "UserActivity": 2400
           },
           {
             "Product": "Headphones",
-            "Sales": 90,
-            "Revenue": 7000,
+            "Sales": 80,
+            "Revenue": 2200,
             "UserActivity": 2100
           },
           {
             "Product": "Laptop",
             "Sales": 100,
-            "Revenue": 900,
+            "Revenue": 1300,
             "UserActivity": 2700
           },
           {
             "Product": "Camera",
-            "Sales": 10,
-            "Revenue": 900,
-            "UserActivity": 1700
+            "Sales": 15,
+            "Revenue": 1000,
+            "UserActivity": 1900
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 10,
-            "Revenue": 6000,
+            "Sales": 15,
+            "Revenue": 5000,
             "UserActivity": 2500
           },
           {
             "Product": "Women",
-            "Sales": 20,
-            "Revenue": 7000,
+            "Sales": 30,
+            "Revenue": 5500,
             "UserActivity": 2800
           },
           {
             "Product": "Kids",
-            "Sales": 30,
-            "Revenue": 3000,
+            "Sales": 40,
+            "Revenue": 2800,
             "UserActivity": 2400
           },
           {
             "Product": "Winter",
-            "Sales": 90,
-            "Revenue": 7000,
+            "Sales": 85,
+            "Revenue": 6000,
             "UserActivity": 2100
           }
         ]
@@ -2373,65 +2373,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 110,
-            "Revenue": 7800,
+            "Sales": 115,
+            "Revenue": 7500,
             "UserActivity": 2600
           },
           {
             "Product": "Gaming",
-            "Sales": 95,
-            "Revenue": 8200,
-            "UserActivity": 2900
+            "Sales": 97,
+            "Revenue": 8100,
+            "UserActivity": 2850
           },
           {
             "Product": "Television",
-            "Sales": 95,
-            "Revenue": 4200,
-            "UserActivity": 2500
+            "Sales": 94,
+            "Revenue": 4150,
+            "UserActivity": 2530
           },
           {
             "Product": "Headphones",
-            "Sales": 95,
-            "Revenue": 7200,
-            "UserActivity": 2200
+            "Sales": 93,
+            "Revenue": 7100,
+            "UserActivity": 2250
           },
           {
             "Product": "Laptop",
-            "Sales": 105,
-            "Revenue": 1000,
-            "UserActivity": 2800
+            "Sales": 103,
+            "Revenue": 980,
+            "UserActivity": 2900
           },
           {
             "Product": "Camera",
-            "Sales": 15,
-            "Revenue": 1100,
-            "UserActivity": 1900
+            "Sales": 17,
+            "Revenue": 1050,
+            "UserActivity": 2000
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 15,
-            "Revenue": 6500,
-            "UserActivity": 2600
+            "Sales": 14,
+            "Revenue": 6400,
+            "UserActivity": 2550
           },
           {
             "Product": "Women",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2900
+            "Sales": 26,
+            "Revenue": 7300,
+            "UserActivity": 2950
           },
           {
             "Product": "Kids",
-            "Sales": 35,
+            "Sales": 34,
             "Revenue": 3500,
-            "UserActivity": 2500
+            "UserActivity": 2650
           },
           {
             "Product": "Winter",
-            "Sales": 95,
-            "Revenue": 7200,
-            "UserActivity": 2200
+            "Sales": 99,
+            "Revenue": 7100,
+            "UserActivity": 2250
           }
         ]
       }
@@ -2443,65 +2443,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 115,
-            "Revenue": 8000,
-            "UserActivity": 2700
+            "Sales": 120,
+            "Revenue": 7900,
+            "UserActivity": 2650
           },
           {
             "Product": "Gaming",
-            "Sales": 100,
-            "Revenue": 8500,
-            "UserActivity": 3000
+            "Sales": 99,
+            "Revenue": 8400,
+            "UserActivity": 2950
           },
           {
             "Product": "Television",
-            "Sales": 100,
-            "Revenue": 4400,
-            "UserActivity": 2600
+            "Sales": 97,
+            "Revenue": 4300,
+            "UserActivity": 2550
           },
           {
             "Product": "Headphones",
-            "Sales": 100,
-            "Revenue": 7400,
-            "UserActivity": 2300
+            "Sales": 98,
+            "Revenue": 7300,
+            "UserActivity": 2350
           },
           {
             "Product": "Laptop",
-            "Sales": 110,
-            "Revenue": 1100,
-            "UserActivity": 2900
+            "Sales": 108,
+            "Revenue": 1080,
+            "UserActivity": 2950
           },
           {
             "Product": "Camera",
-            "Sales": 20,
-            "Revenue": 1300,
-            "UserActivity": 2100
+            "Sales": 23,
+            "Revenue": 1250,
+            "UserActivity": 2150
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 20,
-            "Revenue": 7000,
-            "UserActivity": 2700
+            "Sales": 21,
+            "Revenue": 6700,
+            "UserActivity": 2750
           },
           {
             "Product": "Women",
-            "Sales": 30,
-            "Revenue": 8000,
-            "UserActivity": 3000
+            "Sales": 32,
+            "Revenue": 7800,
+            "UserActivity": 3050
           },
           {
             "Product": "Kids",
-            "Sales": 40,
-            "Revenue": 4000,
-            "UserActivity": 2600
+            "Sales": 42,
+            "Revenue": 3800,
+            "UserActivity": 2650
           },
           {
             "Product": "Winter",
-            "Sales": 100,
-            "Revenue": 7400,
-            "UserActivity": 2300
+            "Sales": 102,
+            "Revenue": 7300,
+            "UserActivity": 2350
           }
         ]
       }
@@ -2513,65 +2513,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 125,
+            "Revenue": 8100,
+            "UserActivity": 2850
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 104,
+            "Revenue": 8600,
+            "UserActivity": 3150
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 103,
+            "Revenue": 4450,
+            "UserActivity": 2750
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 103,
+            "Revenue": 7500,
+            "UserActivity": 2450
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 113,
+            "Revenue": 1150,
+            "UserActivity": 3050
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 28,
+            "Revenue": 1350,
+            "UserActivity": 2250
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 30,
+            "Revenue": 7800,
+            "UserActivity": 2900
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 38,
+            "Revenue": 8200,
+            "UserActivity": 3200
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 48,
+            "Revenue": 4100,
+            "UserActivity": 2800
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 108,
+            "Revenue": 7500,
+            "UserActivity": 2450
           }
         ]
       }
@@ -2583,65 +2583,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 130,
+            "Revenue": 8300,
+            "UserActivity": 2900
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
+            "Sales": 108,
             "Revenue": 8700,
-            "UserActivity": 3100
+            "UserActivity": 3200
           },
           {
             "Product": "Television",
-            "Sales": 105,
+            "Sales": 107,
             "Revenue": 4600,
-            "UserActivity": 2700
+            "UserActivity": 2800
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 107,
+            "Revenue": 7700,
+            "UserActivity": 2500
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 118,
+            "Revenue": 1220,
+            "UserActivity": 3100
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 33,
+            "Revenue": 1450,
+            "UserActivity": 2350
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 35,
+            "Revenue": 7900,
+            "UserActivity": 3000
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 42,
+            "Revenue": 8300,
+            "UserActivity": 3300
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 53,
+            "Revenue": 4300,
+            "UserActivity": 2900
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 115,
+            "Revenue": 7700,
+            "UserActivity": 2550
           }
         ]
       }
@@ -2653,135 +2653,135 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 135,
+            "Revenue": 8500,
+            "UserActivity": 2950
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 112,
+            "Revenue": 8900,
+            "UserActivity": 3250
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 111,
+            "Revenue": 4750,
+            "UserActivity": 2850
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 111,
+            "Revenue": 7900,
+            "UserActivity": 2550
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 122,
+            "Revenue": 1280,
+            "UserActivity": 3150
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 38,
+            "Revenue": 1550,
+            "UserActivity": 2450
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
-          },
-          {
-            "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
+            "Sales": 40,
+            "Revenue": 8100,
             "UserActivity": 3100
           },
           {
+            "Product": "Women",
+            "Sales": 48,
+            "Revenue": 8400,
+            "UserActivity": 3400
+          },
+          {
             "Product": "Kids",
-            "Sales": 45,
+            "Sales": 58,
             "Revenue": 4500,
-            "UserActivity": 2700
+            "UserActivity": 3000
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 120,
+            "Revenue": 7900,
+            "UserActivity": 2650
           }
         ]
       }
     },
     {
       "Year": 2023,
-      "Month": "Aubust",
+      "Month": "August",
       "Category": {
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
-          },
-          {
-            "Product": "Gaming",
-            "Sales": 105,
+            "Sales": 140,
             "Revenue": 8700,
-            "UserActivity": 3100
-          },
-          {
-            "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
-          },
-          {
-            "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
-          },
-          {
-            "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
             "UserActivity": 3000
           },
           {
+            "Product": "Gaming",
+            "Sales": 116,
+            "Revenue": 9100,
+            "UserActivity": 3300
+          },
+          {
+            "Product": "Television",
+            "Sales": 115,
+            "Revenue": 4900,
+            "UserActivity": 2900
+          },
+          {
+            "Product": "Headphones",
+            "Sales": 115,
+            "Revenue": 8100,
+            "UserActivity": 2600
+          },
+          {
+            "Product": "Laptop",
+            "Sales": 126,
+            "Revenue": 1340,
+            "UserActivity": 3200
+          },
+          {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 43,
+            "Revenue": 1650,
+            "UserActivity": 2550
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 45,
+            "Revenue": 8300,
+            "UserActivity": 3200
           },
           {
             "Product": "Women",
-            "Sales": 35,
+            "Sales": 54,
             "Revenue": 8500,
-            "UserActivity": 3100
+            "UserActivity": 3500
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 63,
+            "Revenue": 4700,
+            "UserActivity": 3100
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 125,
+            "Revenue": 8100,
+            "UserActivity": 2750
           }
         ]
       }
@@ -2793,65 +2793,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 145,
+            "Revenue": 8800,
+            "UserActivity": 3050
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 120,
+            "Revenue": 9300,
+            "UserActivity": 3350
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 119,
+            "Revenue": 5050,
+            "UserActivity": 2950
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 119,
+            "Revenue": 8300,
+            "UserActivity": 2700
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 130,
+            "Revenue": 1400,
+            "UserActivity": 3250
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 48,
+            "Revenue": 1750,
+            "UserActivity": 2650
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 50,
+            "Revenue": 8500,
+            "UserActivity": 3300
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 60,
+            "Revenue": 8600,
+            "UserActivity": 3600
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 68,
+            "Revenue": 4900,
+            "UserActivity": 3200
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 130,
+            "Revenue": 8300,
+            "UserActivity": 2850
           }
         ]
       }
@@ -2863,65 +2863,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
-          },
-          {
-            "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
+            "Sales": 150,
+            "Revenue": 9000,
             "UserActivity": 3100
           },
           {
+            "Product": "Gaming",
+            "Sales": 124,
+            "Revenue": 9500,
+            "UserActivity": 3400
+          },
+          {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
-          },
-          {
-            "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
-          },
-          {
-            "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
+            "Sales": 123,
+            "Revenue": 5200,
             "UserActivity": 3000
           },
           {
+            "Product": "Headphones",
+            "Sales": 123,
+            "Revenue": 8500,
+            "UserActivity": 2750
+          },
+          {
+            "Product": "Laptop",
+            "Sales": 134,
+            "Revenue": 1460,
+            "UserActivity": 3300
+          },
+          {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 53,
+            "Revenue": 1850,
+            "UserActivity": 2750
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 55,
+            "Revenue": 8700,
+            "UserActivity": 3400
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 64,
+            "Revenue": 8700,
+            "UserActivity": 3700
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 73,
+            "Revenue": 5100,
+            "UserActivity": 3300
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 135,
+            "Revenue": 8500,
+            "UserActivity": 2950
           }
         ]
       }
@@ -3003,65 +3003,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 155,
+            "Revenue": 9200,
+            "UserActivity": 3150
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 128,
+            "Revenue": 9700,
+            "UserActivity": 3450
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 127,
+            "Revenue": 5350,
+            "UserActivity": 3050
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 127,
+            "Revenue": 8700,
+            "UserActivity": 2800
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 138,
+            "Revenue": 1520,
+            "UserActivity": 3350
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 58,
+            "Revenue": 1950,
+            "UserActivity": 2850
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 60,
+            "Revenue": 8900,
+            "UserActivity": 3500
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 70,
+            "Revenue": 8800,
+            "UserActivity": 3800
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 78,
+            "Revenue": 5300,
+            "UserActivity": 3400
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 140,
+            "Revenue": 8700,
+            "UserActivity": 3050
           }
         ]
       }
@@ -3073,65 +3073,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 135,
+            "Revenue": 8500,
+            "UserActivity": 2950
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 112,
+            "Revenue": 8900,
+            "UserActivity": 3250
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 111,
+            "Revenue": 4750,
+            "UserActivity": 2850
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 111,
+            "Revenue": 7900,
+            "UserActivity": 2550
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 122,
+            "Revenue": 1280,
+            "UserActivity": 3150
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 38,
+            "Revenue": 1550,
+            "UserActivity": 2450
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
-          },
-          {
-            "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
+            "Sales": 40,
+            "Revenue": 8100,
             "UserActivity": 3100
           },
           {
+            "Product": "Women",
+            "Sales": 48,
+            "Revenue": 8400,
+            "UserActivity": 3400
+          },
+          {
             "Product": "Kids",
-            "Sales": 45,
+            "Sales": 58,
             "Revenue": 4500,
-            "UserActivity": 2700
+            "UserActivity": 3000
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 120,
+            "Revenue": 7900,
+            "UserActivity": 2650
           }
         ]
       }
@@ -3213,65 +3213,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 155,
+            "Revenue": 9200,
+            "UserActivity": 3150
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
-            "Revenue": 8700,
-            "UserActivity": 3100
+            "Sales": 128,
+            "Revenue": 9700,
+            "UserActivity": 3450
           },
           {
             "Product": "Television",
-            "Sales": 105,
-            "Revenue": 4600,
-            "UserActivity": 2700
+            "Sales": 127,
+            "Revenue": 5350,
+            "UserActivity": 3050
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 127,
+            "Revenue": 8700,
+            "UserActivity": 2800
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 138,
+            "Revenue": 1520,
+            "UserActivity": 3350
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 58,
+            "Revenue": 1950,
+            "UserActivity": 2850
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 60,
+            "Revenue": 8900,
+            "UserActivity": 3500
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 70,
+            "Revenue": 8800,
+            "UserActivity": 3800
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 78,
+            "Revenue": 5300,
+            "UserActivity": 3400
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 140,
+            "Revenue": 8700,
+            "UserActivity": 3050
           }
         ]
       }
@@ -3283,65 +3283,65 @@
         "Electronics": [
           {
             "Product": "Audio",
-            "Sales": 120,
-            "Revenue": 8200,
-            "UserActivity": 2800
+            "Sales": 130,
+            "Revenue": 8300,
+            "UserActivity": 2900
           },
           {
             "Product": "Gaming",
-            "Sales": 105,
+            "Sales": 108,
             "Revenue": 8700,
-            "UserActivity": 3100
+            "UserActivity": 3200
           },
           {
             "Product": "Television",
-            "Sales": 105,
+            "Sales": 107,
             "Revenue": 4600,
-            "UserActivity": 2700
+            "UserActivity": 2800
           },
           {
             "Product": "Headphones",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 107,
+            "Revenue": 7700,
+            "UserActivity": 2500
           },
           {
             "Product": "Laptop",
-            "Sales": 115,
-            "Revenue": 1200,
-            "UserActivity": 3000
+            "Sales": 118,
+            "Revenue": 1220,
+            "UserActivity": 3100
           },
           {
             "Product": "Camera",
-            "Sales": 25,
-            "Revenue": 1500,
-            "UserActivity": 2300
+            "Sales": 33,
+            "Revenue": 1450,
+            "UserActivity": 2350
           }
         ],
         "Fashion": [
           {
             "Product": "Men",
-            "Sales": 25,
-            "Revenue": 7500,
-            "UserActivity": 2800
+            "Sales": 35,
+            "Revenue": 7900,
+            "UserActivity": 3000
           },
           {
             "Product": "Women",
-            "Sales": 35,
-            "Revenue": 8500,
-            "UserActivity": 3100
+            "Sales": 42,
+            "Revenue": 8300,
+            "UserActivity": 3300
           },
           {
             "Product": "Kids",
-            "Sales": 45,
-            "Revenue": 4500,
-            "UserActivity": 2700
+            "Sales": 53,
+            "Revenue": 4300,
+            "UserActivity": 2900
           },
           {
             "Product": "Winter",
-            "Sales": 105,
-            "Revenue": 7600,
-            "UserActivity": 2400
+            "Sales": 115,
+            "Revenue": 7700,
+            "UserActivity": 2550
           }
         ]
       }
